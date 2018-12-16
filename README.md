@@ -12,4 +12,4 @@ Skips math part, focuses on why are researchers solve the particular problem, wh
 
 - Proposition: Fractional $\frac{1}{r}$ convolution is implemented as Pixel Shuffle. PS rearranges elements of a tensor from HxWxC*r^2 to rHxrWxC.
 
-- Results:
+- Results: Better PSNR (dB) - MSE like metric for image resolution, less parameters, faster training and inference.
